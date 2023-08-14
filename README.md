@@ -104,8 +104,3 @@ ReactDOM.render(<Admin />, document.getElementById('root'));
 The documentation of API Platform Admin can be browsed [on the official website](https://api-platform.com/docs/admin/).
 
 Check also the documentation of React-admin [on their official website](https://marmelab.com/react-admin/Tutorial.html).
-
-## Credits
-
-Created by [Kévin Dunglas](https://dunglas.fr). Sponsored by [Les-Tilleuls.coop](https://les-tilleuls.coop).
-Commercial support available upon request.
